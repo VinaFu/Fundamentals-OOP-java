@@ -8,7 +8,7 @@ Something you already know:
 
   Objects:
     - State( data)
-    - Behavior (method and functions)
+    - Behavior ( method and functions)
   
    - Encapsulation and abstraction  
    - Inheritance and polymorphism
@@ -48,6 +48,6 @@ Advantages - same with Python
         Then it automatically build a coding block.
         
         
-high coupling 高耦合
+high coupling 高耦合: When two classes are highly dependent on each other. Not good, if you change one item, has to change another one!
   
   
