@@ -58,14 +58,14 @@ Customer.java - change into another line
 relations: catalogue ->productType; product; 
 Terms :
 
-      Encapsulation in Java is an object-oriented procedure of combining the data members and data methods of the class inside the user-defined class.
-      Assign Responsibilities: two class may use same object (customer + credit card - payment)
-      High coupling 高耦合: When two classes are highly dependent on each other. Not good, if you change one item, has to change another one!
+      Encapsulation: 封装. combining the data members and data methods of the class inside the user-defined class.
+      Assign Responsibilities: 分配责任 two class may use same object (customer + credit card - payment)
+      High coupling: 高耦合. When two classes are highly dependent on each other. Not good, if you change one item, has to change another one!
       SRP: Single Responsibility Principle - A class should have only one reason to change
       DRY: Don't Repeat Youself
-      Overriding: 重写覆盖.subclass change the parent one.
-      Polymorphism: allows us to perform the same action in many different ways. Usually via overriding
-      Inheritance: lets us inherit attributes and methods from another class.
+      Overriding: 重写覆盖.subclass change the parent/superclass. 只从下往上，不改变同级子类
+      Polymorphism: 多态性. allows us to perform the same action in many different ways. Usually via overriding
+      Inheritance: 继承. lets us inherit attributes and methods from another class.
      
      
      E.g of Inheritance/ Overriding/ Polymorphism:
