@@ -66,7 +66,9 @@ Terms :
       Overriding: 重写覆盖.subclass change the parent/superclass. 只从下往上，不改变同级子类
       Polymorphism: 多态性. allows us to perform the same action in many different ways. Usually via overriding
       Inheritance: 继承. lets us inherit attributes and methods from another class.
-     
+      enum: enumerate. 枚举是一个特殊的“类”，表示一组常量（不可更改的变量，如最终变量）。
+            主要区别在于 <array> 是一个值，而 <enum> 是一种类型。
+      super(): quote the parent parameter from above level.
      
      E.g of Inheritance/ Overriding/ Polymorphism:
      
@@ -114,7 +116,7 @@ Logic & Design:
   Demo, Catalogue & ProductType are the 3 extra ones. 
 
 
-  
+  why the lineitem have no "final" ? 
 
 
 
